@@ -2,6 +2,8 @@
 
 def main():
     entrance = int(input())
+    if not entrance:
+        return
     try:
         if 1 <= entrance <= 50:
             for i in range(entrance):

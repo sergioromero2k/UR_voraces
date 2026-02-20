@@ -5,29 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ed2d4804-0c25-4a3b-b391-874f6e55e8f9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/1_animal_crossing/animal_crossing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2_learning_drive/learning_drive.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1_hola_mundo/hola_mundo.py" beforeDir="false" afterPath="$PROJECT_DIR$/3_hola_mundo/hola_mundo.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1_hola_mundo/prob-Hola mundo.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/3_hola_mundo/prob-Hola mundo.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1_hola_mundo/samples-Hola mundo/1.ans" beforeDir="false" afterPath="$PROJECT_DIR$/3_hola_mundo/samples-Hola mundo/1.ans" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1_hola_mundo/samples-Hola mundo/1.in" beforeDir="false" afterPath="$PROJECT_DIR$/3_hola_mundo/samples-Hola mundo/1.in" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1_hola_mundo/samples-Hola mundo/2.ans" beforeDir="false" afterPath="$PROJECT_DIR$/3_hola_mundo/samples-Hola mundo/2.ans" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1_hola_mundo/samples-Hola mundo/2.in" beforeDir="false" afterPath="$PROJECT_DIR$/3_hola_mundo/samples-Hola mundo/2.in" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2_luz_verde_roja/luz_verde_roja.py" beforeDir="false" afterPath="$PROJECT_DIR$/4_luz_verde_roja/luz_verde_roja.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2_luz_verde_roja/prob-Luz verde - Luz roja.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/4_luz_verde_roja/prob-Luz verde - Luz roja.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2_luz_verde_roja/samples-Luz verde, luz roja/1.ans" beforeDir="false" afterPath="$PROJECT_DIR$/4_luz_verde_roja/samples-Luz verde, luz roja/1.ans" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2_luz_verde_roja/samples-Luz verde, luz roja/1.in" beforeDir="false" afterPath="$PROJECT_DIR$/4_luz_verde_roja/samples-Luz verde, luz roja/1.in" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2_luz_verde_roja/samples-Luz verde, luz roja/2.ans" beforeDir="false" afterPath="$PROJECT_DIR$/4_luz_verde_roja/samples-Luz verde, luz roja/2.ans" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2_luz_verde_roja/samples-Luz verde, luz roja/2.in" beforeDir="false" afterPath="$PROJECT_DIR$/4_luz_verde_roja/samples-Luz verde, luz roja/2.in" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2_luz_verde_roja/samples-Luz verde, luz roja/3.ans" beforeDir="false" afterPath="$PROJECT_DIR$/4_luz_verde_roja/samples-Luz verde, luz roja/3.ans" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2_luz_verde_roja/samples-Luz verde, luz roja/3.in" beforeDir="false" afterPath="$PROJECT_DIR$/4_luz_verde_roja/samples-Luz verde, luz roja/3.in" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3_contest_fish/contest_fish.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3_contest_fish/samples-Animal Crossing/1.ans" beforeDir="false" afterPath="$PROJECT_DIR$/1_animal_crossing/samples-Animal Crossing/1.ans" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3_contest_fish/samples-Animal Crossing/1.in" beforeDir="false" afterPath="$PROJECT_DIR$/1_animal_crossing/samples-Animal Crossing/1.in" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3_contest_fish/samples-Animal Crossing/2.ans" beforeDir="false" afterPath="$PROJECT_DIR$/1_animal_crossing/samples-Animal Crossing/2.ans" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3_contest_fish/samples-Animal Crossing/2.in" beforeDir="false" afterPath="$PROJECT_DIR$/1_animal_crossing/samples-Animal Crossing/2.in" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3_contest_fish/samples-Animal Crossing/3.ans" beforeDir="false" afterPath="$PROJECT_DIR$/1_animal_crossing/samples-Animal Crossing/3.ans" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3_contest_fish/samples-Animal Crossing/3.in" beforeDir="false" afterPath="$PROJECT_DIR$/1_animal_crossing/samples-Animal Crossing/3.in" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3_hola_mundo/hola_mundo.py" beforeDir="false" afterPath="$PROJECT_DIR$/3_hola_mundo/hola_mundo.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,6 +36,9 @@
     &quot;accountId&quot;: &quot;1078c890-4a55-47be-951c-78de282b5b62&quot;
   }
 }</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
 }</component>
@@ -68,6 +51,7 @@
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python.contest_fish.executor": "Run",
+    "Python.learning_drive.executor": "Run",
     "Python.luz_verde_roja.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
