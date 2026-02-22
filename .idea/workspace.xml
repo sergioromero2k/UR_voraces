@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ed2d4804-0c25-4a3b-b391-874f6e55e8f9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/2_learning_drive/learning_drive.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/intro_python/5_personalized/personalized.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/voraces/3_different_currencies/different_currencies.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3_hola_mundo/hola_mundo.py" beforeDir="false" afterPath="$PROJECT_DIR$/3_hola_mundo/hola_mundo.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,6 +53,7 @@
     "Python.contest_fish.executor": "Run",
     "Python.learning_drive.executor": "Run",
     "Python.luz_verde_roja.executor": "Run",
+    "Python.personalized.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -61,6 +62,11 @@
     "last_opened_file_path": "C:/Users/Sergio URJC/Documents/UR_voraces"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Sergio URJC\Documents\UR_voraces\voraces\3_different_currencies" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
