@@ -5,10 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ed2d4804-0c25-4a3b-b391-874f6e55e8f9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/voraces/2_road_to_velada/road_to_velada_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/voraces/4_dora_the_temptress/dora_the_temptress.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/examples/money_exchange.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/activity_selection_greedy.py" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/activity_selection_greedy.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/fractional_knapsack_greedy.py" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/fractional_knapsack_greedy.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/voraces/1_everyone_to_eli/everyone_to_elis.py" beforeDir="false" afterPath="$PROJECT_DIR$/voraces/1_everyone_to_eli/everyone_to_elis.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,6 +54,8 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python.contest_fish.executor": "Run",
     "Python.different_currencies.executor": "Run",
+    "Python.everyone_to_elis.executor": "Run",
+    "Python.fractional_knapsack_greedy.executor": "Run",
     "Python.learning_drive.executor": "Run",
     "Python.luz_verde_roja.executor": "Run",
     "Python.personalized.executor": "Run",

@@ -20,6 +20,10 @@ def actividad_greedy(inicio, fin):
 """
 
 def activity_greedy(start, end) -> list:
+    """
+    Time Complexity: O(n log n)   (due to sorting)
+    Space Complexity: O(n)
+    """
     activity = list(zip(start, end, range(len(end))))
     
     print(activity)
